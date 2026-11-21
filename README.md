@@ -53,7 +53,7 @@ The presentation (8 slides) analyses how a single misconfiguration at a fast-gro
 | File | Description |
 | --- | --- |
 | `README.md` | This document |
-| CS50_certificate_linkedin.png | Course certificate |
+| `CS50_certificate_linkedin.png` | Course certificate |
 
 ## Sources
 
