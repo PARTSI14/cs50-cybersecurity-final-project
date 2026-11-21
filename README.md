@@ -9,6 +9,7 @@
 [![CS50 Cybersecurity Final Project: DeepSeek Database Exposure](https://img.youtube.com/vi/6DaInwM2Gig/0.jpg)](https://www.youtube.com/watch?v=6DaInwM2Gig)
 
 ▶️ **Watch on YouTube:** https://www.youtube.com/watch?v=6DaInwM2Gig (7 min 26 s)
+
 ## Certificate
 
 ![CS50 Cybersecurity certificate](CS50_certificate_linkedin.png)
